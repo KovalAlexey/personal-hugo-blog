@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"Telegram Bot",
+      "url":"https://github.com/KovalAlexey/ANNBot",
+      "desc":"Telegramm bot with AI provided by Google API"
+    },
+        {
+      "name":"Hugo",
+      "url":"https://gohugo.io/",
+      "desc":"The world’s fastest framework for building websites."
+    }    
+  ]
+}
