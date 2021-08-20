@@ -589,7 +589,8 @@ body {
   color: #22272a;
   letter-spacing: 0.01em;
   font-weight: 700;
-  font-family: 'Monoton', cursive;
+  font-style: normal;
+  font-family: 'Monoton';
   font-size: 1.5rem;
   line-height: 2rem;
   -moz-osx-font-smoothing: grayscale;
