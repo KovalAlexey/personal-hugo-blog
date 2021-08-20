@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "OKoval personal Blog"
+title = "KALEX"
 theme = "cactus"
-copyright = "Okoval" # cactus will use title if copyright is not set
+copyright = "Alexey Koval" # cactus will use title if copyright is not set
 
 
 
