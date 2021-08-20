@@ -444,6 +444,10 @@ body td {
   font-family: "JetBrains Mono";
   src: local("JetBrains Mono"), url("../lib/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf") format("truetype");
 }
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url("../lib/Press_Start_2P/PressStart2P-Regular.ttf");
+}
 *,
 *:before,
 *:after {
