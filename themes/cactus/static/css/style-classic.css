@@ -444,6 +444,11 @@ body td {
   font-family: "JetBrains Mono";
   src: local("JetBrains Mono"), url("../lib/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf") format("truetype");
 }
+@font-face {
+  font-family: 'Monoton';
+  font-style: normal;
+  src: local("Monoton"), url("../lib/Monoton/Monoton-Regular.ttf") format("truetype");
+}
 *,
 *:before,
 *:after {
@@ -584,8 +589,7 @@ body {
   color: #22272a;
   letter-spacing: 0.01em;
   font-weight: 700;
-  font-style: normal;
-  font-family: 'Press Start 2P';
+  font-family: 'Monoton', cursive;
   font-size: 1.5rem;
   line-height: 2rem;
   -moz-osx-font-smoothing: grayscale;
