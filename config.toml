@@ -10,17 +10,17 @@ copyright = "Alexey Koval" # cactus will use title if copyright is not set
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
+name = "Главная"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
+name = "Посты"
 url = "/post"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "Обо мне"
 url = "/page/about"
 weight = 3
 
